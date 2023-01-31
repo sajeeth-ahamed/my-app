@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.66063d7c.css",
+    "main.js": "/static/js/main.1113125c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/login-page-bg.jpg": "/static/media/login-page-bg.96ec4589c854b53cd2a2.jpg",
+    "static/media/logo2.png": "/static/media/logo2.e06acbd31931a92a287d.png",
+    "static/media/square-logo-remove-bg.png": "/static/media/square-logo-remove-bg.ee00df3faefc2abae578.png",
+    "static/media/QR.jpg": "/static/media/QR.805b6ea623553b437803.jpg",
+    "index.html": "/index.html",
+    "main.66063d7c.css.map": "/static/css/main.66063d7c.css.map",
+    "main.1113125c.js.map": "/static/js/main.1113125c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66063d7c.css",
+    "static/js/main.1113125c.js"
+  ]
+}
