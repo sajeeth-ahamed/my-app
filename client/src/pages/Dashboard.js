@@ -17,9 +17,9 @@ const All = () => {
             <DASH>
                 <div className='page'>
                     <Header as='h1' dividing>
-                        <Image circular src={IMG} /> Welcome to qRec
+                        <Image circular src={IMG} /> Welcome to qRec today
                     </Header>
-                    <Header as='h2'> qRec is a QR based attendance system.</Header>
+                    <Header as='h2'> qRec is a QR based attendance system in DreamSpace.</Header>
                     <br />
                     <List verticalAlign='middle' size='large'>
                         <ul>
