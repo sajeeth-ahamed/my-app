@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    height: fit-content;
+}
+
+.DashBoardItem {
+    display: flex;
+}
+
+main {
+    width: 100%;
+    padding: 20px;
+}
+
+.sidebar {
+    background-image: url(../images/sidebar.png);
+    color: whitesmoke;
+    font-size: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 340px;
+    transition: all 0.9s;
+    position: fixed;
+    z-index: 1;
+    overflow: visible;
+}
+
+.top_section {
+    display: flex;
+    align-items: center;
+    padding: 20px 15px;
+}
+
+.logo {
+    font-size: 40px;
+    color: #dd6941;
+    text-align: center;
+    transition: all 2s ease-in-out;
+}
+
+.bars {
+    display: flex;
+    font-size: 25px;
+    margin-left: 50px;
+    transition: all 0.9s;
+}
+
+.link {
+    text-decoration: none;
+    display: flex;
+    color: #fff;
+    padding: 1px 15px;
+    margin: 16px 0px;
+    gap: 15px;
+    transition: all 0.5s;
+}
+
+.link:hover {
+    background: lightskyblue;
+    color: #000;
+    transition: all 0.5s;
+}
+
+.active {
+    background: lightskyblue;
+    color: #000;
+}
+
+.icon,
+.link_text {
+    font-size: 20px;
+    margin: 10px 0px;
+}
