@@ -110,7 +110,7 @@ const Attendance = ({ getStaffId }) => {
                                     </Table.Row>
                                 </Table.Header>
                                 {attendance
-                                    .sort((a, b) => a.date_time < b.date_time ? 1 : -1)
+                                    .sort((a, b) => a.time < b.time ? 1 : -1)
                                     .filter((doc) => {
                                         return (
                                             doc.StaffID.includes(staffID)
